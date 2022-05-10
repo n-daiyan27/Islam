@@ -1,0 +1,44 @@
+body{
+    background-color:azure;
+}
+.font-head{
+    font-family: 'Nunito', sans-serif;
+}
+.color-head{
+    color:darkblue;
+}
+
+.nav-bg{
+    background: #66b3ff;
+    ;
+}
+
+.nav-astyle{
+    color:red;
+}
+
+.bg-footer{
+    background-image: linear-gradient(rgb(102, 105, 103), black);
+}
+
+.a-footer{
+    text-decoration: none;
+    color:rgb(82, 226, 137)
+}
+
+.a-footer:hover{
+    color:rgb(171, 238, 221);
+    font-size: 1.25rem;
+}
+
+.footer-silent{
+    color:rgb(233, 205, 84);
+}
+
+.a-nav:hover{
+    color:azure;
+}
+
+.bg-drop{
+    background-color: #66b3ff;
+}
